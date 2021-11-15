@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
-You can contact me by email 👉 nicesprite@qq.com
+- :meat_on_bone: My email : nicesprite@qq.com
